@@ -1,5 +1,3 @@
-Here's a detailed **README.md** file for your GitHub repository:  
-
 ---
 
 # Stock Market Analysis App 📈  
