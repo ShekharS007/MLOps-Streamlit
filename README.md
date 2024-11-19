@@ -22,8 +22,8 @@ Make sure you have the following installed:
 ## Installation  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-username/stock-market-analysis-app.git  
-   cd stock-market-analysis-app  
+   git clone https://github.com/ShekharS007/MLOps-Streamlit.git  
+   cd stock_market.py  
    ```  
 
 2. Install the required dependencies:  
@@ -33,7 +33,7 @@ Make sure you have the following installed:
 
 3. Run the Streamlit application:  
    ```bash  
-   streamlit run app.py  
+   streamlit run stock_market.py  
    ```  
 
 4. Open the application in your browser. By default, it runs at `http://localhost:8501/`.  
